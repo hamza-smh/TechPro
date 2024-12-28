@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sophia Martinez",
+    "position": "Marketing Director, NextGen Marketing",
+    "comment": "We had the pleasure of working with Techprologist for the development of our SaaS product, and we couldn't be happier with the results. From the very beginning, their team demonstrated a deep understanding of our needs, providing innovative solutions and exceptional attention to detail."
+  },
+  {
+    "id": 2,
+    "name": "Liam Johnson",
+    "position": "Small Business Owner, Johnson Retail Solutions",
+    "comment": "The professionalism and dedication shown by their team were beyond our expectations. They didn’t just deliver on time; they exceeded our expectations in every way possible."
+  },
+  {
+    "id": 3,
+    "name": "Michael Davis",
+    "position": "Founder, Green Valley Startups",
+    "comment": "If you're looking for a software house that combines technical expertise with a personal touch, look no further than Techprologist. We look forward to collaborating with them again on future projects!"
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Digital Marketing",
+        "icon": "pe-7s-gleam",
+        "content": "We create impactful digital marketing strategies to elevate your brand and drive measurable results across various online platforms."
+    },
+    {
+      "id": 2,
+      "title": "Web & App Development",
+      "icon": "pe-7s-phone",
+      "content": "Our expert web development team builds responsive, user-friendly websites that deliver seamless experiences and help your business grow."
+    },
+    {
+      "id": 3,
+      "title": "Graphic Design",
+      "icon": "pe-7s-magic-wand",
+      "content": "We craft visually stunning designs that tell your brand story and captivate your audience, ensuring every visual element resonates with your message."
+    }
+]

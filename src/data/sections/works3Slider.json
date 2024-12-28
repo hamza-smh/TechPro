@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "art & illustration",
+    "secTex": "Innovation and Crafts",
+    "image": "/img/portfolio/curs/art.jpg",
+    "slug": "/project-details/project-details-dark"
+  },
+  {
+    "id": 2,
+    "title": "Logo Design",
+    "secTex": "Inspiring new space",
+    "image": "/img/portfolio/curs/logo.jpg",
+    "slug": "/project-details/project-details-dark"
+  },
+  {
+    "id": 3,
+    "title": "Web Templating",
+    "secTex": "Natural plus modern",
+    "image": "/img/portfolio/curs/web.jpg",
+    "slug": "/project-details/project-details-dark"
+  },
+  {
+    "id": 4,
+    "title": "Mobile Application",
+    "secTex": "Innovation and Crafts",
+    "image": "/img/portfolio/curs/mobile.jpg",
+    "slug": "/project-details/project-details-dark"
+  },
+  {
+    "id": 5,
+    "title": "Game development",
+    "secTex": "Inspiring new space",
+    "image": "/img/portfolio/curs/game.jpg",
+    "slug": "/project-details/project-details-dark"
+  }
+]
